@@ -4,7 +4,7 @@ setup(
     name='GenMed-AI-Chatbot',
     version='0.1',
     author='Akash Kumar Tiwari',
-    author_email='your_email@example.com',
+    author_email='kumarakash02401@example.com',
     description='A medical AI chatbot for healthcare assistance',
     packages=find_packages(),
     install_requires=[
